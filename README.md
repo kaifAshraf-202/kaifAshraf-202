@@ -1,13 +1,15 @@
-# Hi, I'm Md Kaif Ashraf Khan
+# Hey, I'm Kaif 👋
 
-<h3 align="center">🚀 Full Stack MERN Developer | AI Enthusiast | Agentic Ai</h3>
+<h3 align="center">Full Stack MERN Deve!oper · AI Enthusiast · Agentic AI</h3>
 
 <p align="center">
-Building scalable web applications, AI-powered systems, and real-world software solutions.
+I don't just write code — I build systems that solve real problems and actually make sense to the people using them.
 </p>
 
 ---
-## 🌐 Portfolio & Contact
+
+## 🌐 Find me here
+
 <p align="left">
 
 <a href="https://kaifashraf.vercel.app/" target="_blank">
@@ -28,20 +30,20 @@ Building scalable web applications, AI-powered systems, and real-world software 
 
 </p>
 
-
-
 ---
 
-## 💫 About Me
+## 💫 A Litte About Me
 
-I spend most of my time building full-stack applications with the MERN stack, figuring out how to make backends more scalable, and experimenting with AI integrations. 
-When I'm not coding, I'm probably reading about system design or deep-diving into something that broke and I need to fix.
+I spend most of my time building full-stack applications with the MERN stack, obsessing over backend architecture, and figuring out how to make AI genuinely useful inside real products — not just as a gimmick.
+
+When I'm not coding, I'm probably reading about system design, debugging something that shouldn't have broken, or thinking about the next thing I want to build.
+
 - 🔭 Currently building full-stack and AI-powered applications
-- 🌱 Learning advanced backend systems, scalable architecture, and system design
-- 🤖 Exploring Artificial Intelligence and Generative AI concepts
-- ⚡ Interested in automation, APIs, real-time systems, and intelligent applications
-- 💬 Comfortable with MERN Stack, Python, databases, and backend development
-- 🚀 Passionate about creating impactful and production-ready software solutions
+- 🌱 Going deeper into backend systems, scalable architecture, and system design
+- 🤖 Exploring Agentic AI — and shipping it into real products
+- ⚡ Drawn to automation, real-time systems, and APIs done right
+- 💬 Comfortable with MERN, Python, and databases — always pushing further
+- 🏗️ Building something bigger under **Elevate Tech**
 
 ---
 
@@ -58,7 +60,7 @@ When I'm not coding, I'm probably reading about system design or deep-diving int
 
 ---
 
-## ⚡ Frontend Development
+## ⚡ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -66,7 +68,7 @@ When I'm not coding, I'm probably reading about system design or deep-diving int
 
 ---
 
-## 🔥 Backend Development
+## 🔥 Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -74,7 +76,7 @@ When I'm not coding, I'm probably reading about system design or deep-diving int
 
 ---
 
-## 🗄️ Database & Cloud
+## 🗄️ Databases & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,7 +91,7 @@ When I'm not coding, I'm probably reading about system design or deep-diving int
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -98,82 +100,27 @@ When I'm not coding, I'm probably reading about system design or deep-diving int
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Things I've Built
 
-## 📌 ExamTrackr
-Smart exam preparation and analytics platform featuring:
-- Student performance analytics
-- Test management system
-- Progress tracking dashboard
-- AI-based insights and reporting
+**ExamTrackr** — Smart exam prep platform with AI-driven performance insights and student analytics.
+`MERN · Charts · Auth`
 
-**Tech:** MERN Stack, Authentication, Charts, Analytics
+**SmartMark** — Real-time face recognition attendance system. No manual roll calls, ever.
+`Python · OpenCV · Flask · Firebase`
 
----
-
-## 📌 SmartMark
-AI-powered face recognition attendance management system with:
-- Real-time attendance tracking
-- Face recognition using OpenCV
-- Flask backend integration
-- Firebase database support
-
-**Tech:** Python, OpenCV, Flask, Firebase
-
----
-
-## 📌 Coaching Institute Management System
-
-Advanced coaching management platform featuring:
-- Video lectures
-- Online test system
-- Student performance dashboard
-- Payment integration
-- Attendance management
-- Homework & notices
-- SMS notifications
-
-**Tech:** MERN Stack, APIs, Database Systems
-
----
-
-# 🌱 Currently Exploring
-
-- 🚀 Advanced MERN Stack Development
-- ⚙️ Backend Architecture & System Design
-- 📡 Real-Time Applications & WebSockets
-- 🤖 Artificial Intelligence & Generative AI
-- 🐧 Linux System Administration
-- 📚 DSA & Scalable Systems
+**Coaching Management System** — End-to-end platform for institutes — lectures, tests, payments, SMS.
+`MERN · APIs · Database Systems`
 
 ---
 
 # 📊 GitHub Stats
 
-
-
 ![Kaif's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaifAshraf-202&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaifAshraf-202&theme=tokyonight)
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kaifAshraf-202&theme=tokyonight)
 
 ---
 
-# 🏆 Goals for 2026
-
-- ✅ Build impactful SaaS products
-- ✅ Master backend engineering & scalable systems
-- ✅ Develop AI-integrated applications
-- ✅ Strengthen system design & DSA
-- ✅ Build a successful tech startup under Elevate Tech
-
----
-
-# ⭐ Quote
-
-> "Building technology that solves real-world problems."
-
----
-```
+> *"Skill speaks louder than decoration."*
