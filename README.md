@@ -1,4 +1,4 @@
-```md
+md
 # Hi, I'm Aishwarya Khandare 👋
 
 🌐 **Portfolio:**  
@@ -85,4 +85,3 @@ Real-time collaborative workspace with shared whiteboard functionality.
 ## ⭐ Quote
 
 > "Always open to learning, collaborating, and building impactful projects."
-```
