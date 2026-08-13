@@ -1,4 +1,4 @@
-# Hey, I'm Kaif 👋
+# Hey, I'm Kaif Ashraf 👋
 
 <h3 align="center">Full Stack MERN Deve!oper · AI Enthusiast · Agentic AI</h3>
 
